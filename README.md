@@ -143,6 +143,6 @@
 │           📄 goorm-proj3_generation-v2.ipynb                          텍스트 생성
 |           📄 goorm-proj3_validation.ipynb                             검증
 └───────📁 demo
-│           📄 spoken-written-converter.py
-|           📄 requirements.txt
+            📄 spoken-written-converter.py
+            📄 requirements.txt
 ~~~
